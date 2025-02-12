@@ -1,1 +1,1 @@
-# analize_token
+# coin analyzer by news
